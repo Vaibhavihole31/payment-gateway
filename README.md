@@ -4,7 +4,7 @@ A payment gateway is a service that enables businesses to accept and process pay
 
 ## Configuration
 
-To use the API, you will need to obtain your `API keys` from your Stripe account dashboard. There are two types of `API keys`: `test keys` and `live keys````. For development purposes, we will use the `test keys`.
+To use the API, you will need to obtain your `API keys` from your Stripe account dashboard. There are two types of `API keys`: `test keys` and `live keys`. For development purposes, we will use the `test keys`.
 
 1. Sign up for a Razorpay account and obtain your API key and secret key.
 
